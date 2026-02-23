@@ -19,9 +19,13 @@ This project was developed as part of an academic module focused on identifying 
 - Guest access mode (No login required)
 - Community-based parking spot sharing
 - Admin dashboard for parking management
-
+  
 ## Competitor Analysis
 The system was compared with existing solutions such as Park+ (India), Tenaga (Sri Lanka), and PayMedia (Sri Lanka) to identify feature gaps and introduce innovative differentiators tailored for the Sri Lankan market.
+
+## Figma Prototype
+You can view the UI/UX design prototype here:
+https://www.figma.com/make/TGvHXgtKWyxyfXiqcXZB6g/PARKERS-Smart-Parking-App-Wireframes?node-id=0-4&t=BRA6Ori3inAwDrPj-1
 
 ## Project Type
 Academic project – University module assignment.
